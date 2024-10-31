@@ -30,10 +30,4 @@ header:
       en      : &EN       About
 
     url: /about.html
-    
-  - titles:
-      # @start locale config
-      en      : &EN       Home
 
-      # @end locale config
-    url: /about.html
