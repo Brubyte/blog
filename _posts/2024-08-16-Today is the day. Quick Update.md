@@ -1,6 +1,6 @@
 ---
-title: Today is the day. Quick Update
-tags: Cybersecurity , ISC2 
+title: Quick Update
+tags: Cybersecurity ISC2 
 ---
 
 OH DEMN. I PASSED.
