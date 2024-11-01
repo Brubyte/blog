@@ -1,6 +1,21 @@
 header:
   - titles:
       # @start locale config
+      en      : &EN       Home
+      # @end locale config
+    url: https://brubyte.github.io/index.html
+  - titles:
+      # @start locale config
+      en      : &EN       About
+      # @end locale config
+    url: https://brubyte.github.io/src/about.html
+  - titles:
+      # @start locale config
+      en      : &EN       Projects
+      # @end locale config
+    url: https://brubyte.github.io/src/CV.html
+  - titles:
+      # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
@@ -24,6 +39,4 @@ header:
       tr      : &TR       Arşivdekiler
       # @end locale config
     url: /archive.html
-
-
 
