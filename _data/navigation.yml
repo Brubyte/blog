@@ -16,6 +16,11 @@ header:
     url: https://www.brubite.com/CV
   - titles:
       # @start locale config
+      en      : &EN       Certifications
+      # @end locale config
+    url: https://www.brubite.com/certificates
+  - titles:
+      # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
